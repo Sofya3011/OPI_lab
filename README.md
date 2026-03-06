@@ -9,6 +9,7 @@
 - **Языки:** Python, JavaScript, C++
 - **Инструменты:** Git, Docker, VS Code
 - **Базы данных:** MySQL, SQLite
+- **Лежать дома, отдыхать**
 
 ### Контакты:
 - Email: sr4919119@gmail.con
